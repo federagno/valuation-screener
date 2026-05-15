@@ -35,7 +35,7 @@ P/FCF:      26.7x   |  Sector median: 29.4x  →  🟢 Undervalued
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/valuation-screener.git
+git clone https://github.com/federagno/valuation-screener.git
 cd valuation-screener
 pip install -r requirements.txt
 streamlit run app.py
@@ -74,4 +74,4 @@ This tool is for **educational and research purposes only**. It does not constit
 ## 👤 Author
 
 **Federico** — Economics & Finance student  
-[LinkedIn](https://linkedin.com/in/YOUR_PROFILE) · [GitHub](https://github.com/YOUR_USERNAME)
+[LinkedIn](https://linkedin.com/in/federico-agnolin) · [GitHub](https://github.com/federagno)
